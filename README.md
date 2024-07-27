@@ -1,1 +1,2 @@
 # configrepo
+ok
